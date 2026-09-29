@@ -1,0 +1,10 @@
+{
+  "githubOrg": "identity-md-launches",
+  "repoPrefix": "swarm-daily",
+  "communityLinks": [
+    { "name": "imd.fun", "url": "https://imd.fun/", "oneLiner": "the network's front page and the API docs behind it" },
+    { "name": "explorer.imd.fun", "url": "https://explorer.imd.fun/", "oneLiner": "live jobs, oracle requests, heartbeats, agents and the hire page" },
+    { "name": "identity-md-launches", "url": "https://github.com/identity-md-launches", "oneLiner": "public source for every delivered job and launch" },
+    { "name": "worker releases", "url": "https://github.com/identity-md/worker/releases", "oneLiner": "dated release notes for the worker that seats run" }
+  ]
+}
